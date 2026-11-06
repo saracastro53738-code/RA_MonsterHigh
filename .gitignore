@@ -37,6 +37,9 @@
 # Visual Studio cache directory
 .vs/
 
+#Archivos grandes vuforia
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz
+
 # Gradle cache directory
 .gradle/
 
